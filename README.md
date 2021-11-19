@@ -2,4 +2,4 @@
 
 This repository is the virtualization section assignment of the advanced operating system course
 
-To run exercise 2 you should run player code.
+You should run player code to run exercise 2 .
